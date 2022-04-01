@@ -1,0 +1,279 @@
+2022-03-30 17:36:21,628 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfourwheeler_XPATH
+2022-03-30 17:36:22,804 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwselectvhclinfo_XPATH
+2022-03-30 17:36:26,958 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwsearchbrand_XPATH entered the value as : Maruti
+2022-03-30 17:36:28,049 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwselectbrandpage1_XPATH
+2022-03-30 17:36:29,146 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwselectmodelpage2_XPATH
+2022-03-30 17:36:30,258 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwselectmodel_XPATH entered the value as : alto
+2022-03-30 17:36:32,359 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwselectbrand_XPATH
+2022-03-30 17:36:34,472 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwclickmodelpage3_XPATH
+2022-03-30 17:36:35,547 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwselectmodel800_XPATH
+2022-03-30 17:36:36,642 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwselectrtopage_XPATH
+2022-03-30 17:36:36,795 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwinputRTO_XPATH entered the value as : KA
+2022-03-30 17:36:39,914 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwselectRTO_XPATH
+2022-03-30 17:36:41,032 - BasePage.py:[29] - [INFO] - Clicking on an Element rsafwreginfopage_XPATH
+2022-03-30 17:36:43,136 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwregdatepicker_XPATH
+2022-03-30 17:36:44,218 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwmonthyearchoose_XPATH
+2022-03-30 17:36:45,307 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwyearchoose_XPATH
+2022-03-30 17:36:46,381 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwmonthchoose_XPATH
+2022-03-30 17:36:47,482 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwdaychoose_XPATH
+2022-03-30 17:36:51,600 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwpolstspage_XPATH
+2022-03-30 17:36:53,720 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwexpdate_XPATH entered the value as : 15/4/2022
+2022-03-30 17:36:55,811 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwquotespage_XPATH
+2022-03-30 17:37:07,531 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwsharequotes_XPATH
+2022-03-30 17:37:09,624 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwselectallplan_XPATH
+2022-03-30 17:37:11,725 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwsharequotespage_XPATH
+2022-03-30 17:37:13,982 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-03-30 17:37:14,382 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-03-30 17:37:14,658 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwsharequotesmobile_XPATH entered the value as : 8965214785
+2022-03-30 17:37:15,769 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwselectplanpage_XPATH
+2022-03-30 17:37:20,850 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwselectcomprehensive_XPATH
+2022-03-30 17:37:23,180 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwproposalinfopage_XPATH
+2022-03-30 17:37:26,342 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwvhclregno_XPATH entered the value as : KA01J9077
+2022-03-30 17:37:26,467 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwvhclenggno_XPATH entered the value as : 8659741
+2022-03-30 17:37:26,640 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwvhclchssno_XPATH entered the value as : AMHPC9725D8654789
+2022-03-30 17:37:26,745 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwvhclownershipdropdown_XPATH
+2022-03-30 17:37:27,838 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwvhclownershipoption_XPATH
+2022-03-30 17:37:28,921 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwvhclfinancedropdown_XPATH
+2022-03-30 17:37:29,991 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwvhclfinanceoption_XPATH
+2022-03-30 17:37:31,115 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwvhclfinanciername_XPATH entered the value as : bajaj
+2022-03-30 17:37:31,212 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwvhclfintypedropdown_XPATH
+2022-03-30 17:37:32,300 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwvhclfintypeoption_XPATH
+2022-03-30 17:37:33,386 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwpucdropdown_XPATH
+2022-03-30 17:37:34,462 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwpucoption_XPATH
+2022-03-30 17:37:35,596 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwpucnumber_XPATH entered the value as : 569845
+2022-03-30 17:37:35,744 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwpucexpdatepicker_XPATH entered the value as : 1/4/2023
+2022-03-30 17:37:35,836 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwprevinscomdropdown_XPATH
+2022-03-30 17:37:36,914 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwprevinscomoption_XPATH
+2022-03-30 17:37:38,015 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwprevpoltypedropdown_XPATH
+2022-03-30 17:37:39,111 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwprevpoltypeoption_XPATH
+2022-03-30 17:37:40,263 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwprevpolnumber_XPATH entered the value as : 89657456
+2022-03-30 17:37:40,381 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwnomineename_XPATH entered the value as : testnom
+2022-03-30 17:37:40,481 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwnomineeage_XPATH entered the value as : 30
+2022-03-30 17:37:40,589 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwnomineerltndropdown_XPATH
+2022-03-30 17:37:41,692 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwnomineerltnoption_XPATH
+2022-03-30 17:37:42,802 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwcpacoverdropdown_XPATH
+2022-03-30 17:37:43,890 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwcpacoveroption_XPATH
+2022-03-30 17:37:44,979 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwcustomertitledropdown_XPATH
+2022-03-30 17:37:46,065 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwcustomertitleoption_XPATH
+2022-03-30 17:37:47,224 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwcustomername_XPATH entered the value as : apratim chaudhuri
+2022-03-30 17:37:47,314 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwcustomergenderdropdown_XPATH
+2022-03-30 17:37:48,420 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwcustomergenderoption_XPATH
+2022-03-30 17:37:49,524 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwdobdatepicker_XPATH
+2022-03-30 17:37:50,609 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwdobmonthyearchoose_XPATH
+2022-03-30 17:37:51,691 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwdobyearchoose_XPATH
+2022-03-30 17:37:52,773 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwdobmonthchoose_XPATH
+2022-03-30 17:37:53,857 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwdobdaychoose_XPATH
+2022-03-30 17:37:54,994 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwcustomerpan_XPATH entered the value as : AMHPC9725D
+2022-03-30 17:37:55,129 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwcustomeraadhar_XPATH entered the value as : 589654783214
+2022-03-30 17:37:55,253 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwcustomeradd1_XPATH entered the value as : GD
+2022-03-30 17:37:55,368 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwcustomeradd2_XPATH entered the value as : FE
+2022-03-30 17:37:55,491 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwcustomerpin_XPATH entered the value as : 560008
+2022-03-30 17:37:55,597 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwregadddropdown_XPATH
+2022-03-30 17:37:56,678 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwSelectOption_XPATH
+2022-03-30 17:37:57,781 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwRegAddLine1_XPATH entered the value as : GD
+2022-03-30 17:37:57,879 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwRegAddLine2_XPATH entered the value as : FE
+2022-03-30 17:37:58,003 - BasePage.py:[62] - [INFO] - Typing in an Element RSAfwRegPinCode_XPATH entered the value as : 560008
+2022-03-30 17:38:01,169 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAfwpolreviewpage_XPATH
+2022-03-30 17:38:35,069 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwowheeler_XPATH
+2022-03-30 17:38:35,228 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwselectvhclinfo_XPATH
+2022-03-30 17:38:39,367 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwselectbrand_XPATH entered the value as : BAJAJ
+2022-03-30 17:38:41,502 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwselectbrandbajaj_XPATH
+2022-03-30 17:38:43,580 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwselectmodelpage_XPATH
+2022-03-30 17:38:45,671 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwinputmodel_CSS entered the value as : xcd135
+2022-03-30 17:38:47,766 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwselectmodel_XPATH
+2022-03-30 17:38:47,849 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwclickmodelpage_XPATH
+2022-03-30 17:38:48,924 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwselectmodel135_XPATH
+2022-03-30 17:38:48,999 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwselectrtopage_XPATH
+2022-03-30 17:38:49,140 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwinputRTO_XPATH entered the value as : KA
+2022-03-30 17:38:52,231 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwselectRTO_XPATH
+2022-03-30 17:38:53,343 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwreginfopage_XPATH
+2022-03-30 17:38:55,454 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwregdatepicker_XPATH
+2022-03-30 17:38:56,536 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwmonthyearchoose_XPATH
+2022-03-30 17:38:57,609 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwyearchoose_XPATH
+2022-03-30 17:38:58,699 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwmonthchoose_XPATH
+2022-03-30 17:38:59,781 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwdaychoose_XPATH
+2022-03-30 17:39:03,884 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwpolstspage_XPATH
+2022-03-30 17:39:06,007 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwexpdate_XPATH entered the value as : 15/4/2022
+2022-03-30 17:39:08,105 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwquotespage_XPATH
+2022-03-30 17:39:19,310 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwsharequotes_XPATH
+2022-03-30 17:39:21,394 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwselectallplan_XPATH
+2022-03-30 17:39:23,494 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwsharequotespage_XPATH
+2022-03-30 17:39:25,774 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwsharequotesname_XPATH entered the value as : apratim chaudhuri
+2022-03-30 17:39:26,164 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwsharequotesemail_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-03-30 17:39:26,432 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwsharequotesmobile_XPATH entered the value as : 7815830299
+2022-03-30 17:39:27,568 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwselectplanpage_XPATH
+2022-03-30 17:39:32,670 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwselectcomprehensive_XPATH
+2022-03-30 17:39:34,369 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwproposalinfopage_XPATH
+2022-03-30 17:39:37,518 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwvhclregno_XPATH entered the value as : KA01J9077
+2022-03-30 17:39:37,646 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwvhclenggno_XPATH entered the value as : 8659741
+2022-03-30 17:39:37,808 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwvhclchssno_XPATH entered the value as : AMHPC9725D8654789
+2022-03-30 17:39:37,908 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwvhclownershipdropdown_XPATH
+2022-03-30 17:39:38,989 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwvhclownershipoption_XPATH
+2022-03-30 17:39:40,083 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwvhclfinancedropdown_XPATH
+2022-03-30 17:39:41,169 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwvhclfinanceoption_XPATH
+2022-03-30 17:39:42,314 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwvhclfinanciername_XPATH entered the value as : bajaj
+2022-03-30 17:39:42,403 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwvhclfintypedropdown_XPATH
+2022-03-30 17:39:43,486 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwvhclfintypeoption_XPATH
+2022-03-30 17:39:44,579 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwpucdropdown_XPATH
+2022-03-30 17:39:45,670 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwpucoption_XPATH
+2022-03-30 17:39:46,804 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwpucnumber_XPATH entered the value as : 569845
+2022-03-30 17:39:46,953 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwpucexpdatepicker_XPATH entered the value as : 1/4/2023
+2022-03-30 17:39:47,046 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwprevinscomdropdown_XPATH
+2022-03-30 17:39:48,134 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwprevinscomoption_XPATH
+2022-03-30 17:39:49,219 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwprevpoltypedropdown_XPATH
+2022-03-30 17:39:50,291 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwprevpoltypeoption_XPATH
+2022-03-30 17:39:51,414 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwprevpolnumber_XPATH entered the value as : 89657456
+2022-03-30 17:39:51,543 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwnomineename_XPATH entered the value as : testnom
+2022-03-30 17:39:51,635 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwnomineeage_XPATH entered the value as : 30
+2022-03-30 17:39:51,734 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwnomineerltndropdown_XPATH
+2022-03-30 17:39:52,798 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwnomineerltnoption_XPATH
+2022-03-30 17:39:53,882 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwcpacoverdropdown_XPATH
+2022-03-30 17:39:54,974 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwcpacoveroption_XPATH
+2022-03-30 17:39:56,072 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwcustomertitledropdown_XPATH
+2022-03-30 17:39:57,159 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwcustomertitleoption_XPATH
+2022-03-30 17:39:58,311 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwcustomername_XPATH entered the value as : apratim chaudhuri
+2022-03-30 17:39:58,411 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwcustomergenderdropdown_XPATH
+2022-03-30 17:39:59,494 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwcustomergenderoption_XPATH
+2022-03-30 17:40:00,619 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwdobdatepicker_XPATH
+2022-03-30 17:40:01,734 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwdobmonthyearchoose_XPATH
+2022-03-30 17:40:02,825 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwdobyearchoose_XPATH
+2022-03-30 17:40:03,923 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwdobmonthchoose_XPATH
+2022-03-30 17:40:05,002 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwdobdaychoose_XPATH
+2022-03-30 17:40:06,135 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwcustomerpan_XPATH entered the value as : AMHPC9725D
+2022-03-30 17:40:06,277 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwcustomeraadhar_XPATH entered the value as : 589654783214
+2022-03-30 17:40:06,384 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwcustomeradd1_XPATH entered the value as : GD
+2022-03-30 17:40:06,486 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwcustomeradd2_XPATH entered the value as : FE
+2022-03-30 17:40:06,599 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwcustomerpin_XPATH entered the value as : 560008
+2022-03-30 17:40:06,689 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwregadddropdown_XPATH
+2022-03-30 17:40:07,768 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwSelectOption_XPATH
+2022-03-30 17:40:08,863 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwRegAddLine1_XPATH entered the value as : GD
+2022-03-30 17:40:08,964 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwRegAddLine2_XPATH entered the value as : FE
+2022-03-30 17:40:09,087 - BasePage.py:[62] - [INFO] - Typing in an Element RSAtwRegPinCode_XPATH entered the value as : 560008
+2022-03-30 17:40:12,255 - BasePage.py:[29] - [INFO] - Clicking on an Element RSAtwpolreviewpage_XPATH
+2022-03-30 17:40:42,171 - BasePage.py:[29] - [INFO] - Clicking on an Element health_XPATH
+2022-03-30 17:40:48,326 - BasePage.py:[62] - [INFO] - Typing in an Element pin_XPATH entered the value as : 560008
+2022-03-30 17:40:48,494 - BasePage.py:[62] - [INFO] - Typing in an Element contactnum_XPATH entered the value as : 7815830299
+2022-03-30 17:40:48,626 - BasePage.py:[29] - [INFO] - Clicking on an Element next1_XPATH
+2022-03-30 17:40:48,755 - BasePage.py:[29] - [INFO] - Clicking on an Element self_XPATH
+2022-03-30 17:40:48,869 - BasePage.py:[62] - [INFO] - Typing in an Element age_XPATH entered the value as : 30
+2022-03-30 17:40:50,945 - BasePage.py:[29] - [INFO] - Clicking on an Element next2_XPATH
+2022-03-30 17:40:56,115 - BasePage.py:[29] - [INFO] - Clicking on an Element sharequotes_XPATH
+2022-03-30 17:40:59,198 - BasePage.py:[29] - [INFO] - Clicking on an Element selectallquotes_XPATH
+2022-03-30 17:41:01,325 - BasePage.py:[29] - [INFO] - Clicking on an Element next3_XPATH
+2022-03-30 17:41:01,561 - BasePage.py:[62] - [INFO] - Typing in an Element name_XPATH entered the value as : Apratim Chaudhuri
+2022-03-30 17:41:01,758 - BasePage.py:[62] - [INFO] - Typing in an Element email_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-03-30 17:41:01,924 - BasePage.py:[62] - [INFO] - Typing in an Element mobno_XPATH entered the value as : 7815830299
+2022-03-30 17:41:04,008 - BasePage.py:[29] - [INFO] - Clicking on an Element submit_XPATH
+2022-03-30 17:41:08,144 - BasePage.py:[29] - [INFO] - Clicking on an Element closebutton_XPATH
+2022-03-30 17:41:15,323 - BasePage.py:[29] - [INFO] - Clicking on an Element rsaplanselect_XPATH
+2022-03-30 17:41:18,404 - BasePage.py:[29] - [INFO] - Clicking on an Element next4_XPATH
+2022-03-30 17:41:19,056 - BasePage.py:[62] - [INFO] - Typing in an Element firstname_XPATH entered the value as : Apratim
+2022-03-30 17:41:19,192 - BasePage.py:[62] - [INFO] - Typing in an Element lastname_XPATH entered the value as : Chaudhuri
+2022-03-30 17:41:19,320 - BasePage.py:[62] - [INFO] - Typing in an Element dob_XPATH entered the value as : 1/2/1992
+2022-03-30 17:41:19,413 - BasePage.py:[29] - [INFO] - Clicking on an Element propgender_XPATH
+2022-03-30 17:41:19,520 - BasePage.py:[62] - [INFO] - Typing in an Element emailid_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-03-30 17:41:19,631 - BasePage.py:[62] - [INFO] - Typing in an Element income_XPATH entered the value as : 1000000
+2022-03-30 17:41:19,756 - BasePage.py:[62] - [INFO] - Typing in an Element pan_XPATH entered the value as : AMHPC9725D
+2022-03-30 17:41:19,849 - BasePage.py:[29] - [INFO] - Clicking on an Element occudropdown_XPATH
+2022-03-30 17:41:19,964 - BasePage.py:[29] - [INFO] - Clicking on an Element occupation_XPATH
+2022-03-30 17:41:20,065 - BasePage.py:[62] - [INFO] - Typing in an Element designation_XPATH entered the value as : QA
+2022-03-30 17:41:20,151 - BasePage.py:[29] - [INFO] - Clicking on an Element statusdropdown_XPATH
+2022-03-30 17:41:20,778 - BasePage.py:[29] - [INFO] - Clicking on an Element status_XPATH
+2022-03-30 17:41:20,863 - BasePage.py:[29] - [INFO] - Clicking on an Element educationdropdown_XPATH
+2022-03-30 17:41:20,974 - BasePage.py:[29] - [INFO] - Clicking on an Element qualification_XPATH
+2022-03-30 17:41:21,053 - BasePage.py:[29] - [INFO] - Clicking on an Element tpanamedropdown_XPATH
+2022-03-30 17:41:21,160 - BasePage.py:[29] - [INFO] - Clicking on an Element tpaname_XPATH
+2022-03-30 17:41:21,259 - BasePage.py:[62] - [INFO] - Typing in an Element add1_XPATH entered the value as : GD
+2022-03-30 17:41:21,368 - BasePage.py:[62] - [INFO] - Typing in an Element add2_XPATH entered the value as : SaltLake
+2022-03-30 17:41:21,574 - BasePage.py:[29] - [INFO] - Clicking on an Element next5_XPATH
+2022-03-30 17:41:22,687 - BasePage.py:[62] - [INFO] - Typing in an Element selfheight_XPATH entered the value as : 180
+2022-03-30 17:41:22,800 - BasePage.py:[62] - [INFO] - Typing in an Element selfweight_XPATH entered the value as : 75
+2022-03-30 17:41:22,891 - BasePage.py:[62] - [INFO] - Typing in an Element selfdesignation_XPATH entered the value as : QA
+2022-03-30 17:41:23,042 - BasePage.py:[62] - [INFO] - Typing in an Element nomfname_XPATH entered the value as : testnomineefirst
+2022-03-30 17:41:23,209 - BasePage.py:[62] - [INFO] - Typing in an Element nomlname_XPATH entered the value as : testnomineelast
+2022-03-30 17:41:23,341 - BasePage.py:[62] - [INFO] - Typing in an Element nomdob_XPATH entered the value as : 1/2/1992
+2022-03-30 17:41:23,438 - BasePage.py:[29] - [INFO] - Clicking on an Element nomgender_XPATH
+2022-03-30 17:41:23,519 - BasePage.py:[29] - [INFO] - Clicking on an Element nomrelation_XPATH
+2022-03-30 17:41:23,632 - BasePage.py:[29] - [INFO] - Clicking on an Element nomrelationvalue_XPATH
+2022-03-30 17:41:23,703 - BasePage.py:[29] - [INFO] - Clicking on an Element next6_XPATH
+2022-03-30 17:41:27,760 - BasePage.py:[29] - [INFO] - Clicking on an Element next7_XPATH
+2022-03-30 17:44:05,189 - BasePage.py:[29] - [INFO] - Clicking on an Element health_XPATH
+2022-03-30 17:44:11,378 - BasePage.py:[62] - [INFO] - Typing in an Element pin_XPATH entered the value as : 560008
+2022-03-30 17:44:11,571 - BasePage.py:[62] - [INFO] - Typing in an Element contactnum_XPATH entered the value as : 7815830299
+2022-03-30 17:44:11,709 - BasePage.py:[29] - [INFO] - Clicking on an Element next1_XPATH
+2022-03-30 17:44:11,826 - BasePage.py:[29] - [INFO] - Clicking on an Element self_XPATH
+2022-03-30 17:44:11,931 - BasePage.py:[62] - [INFO] - Typing in an Element age_XPATH entered the value as : 30
+2022-03-30 17:44:14,006 - BasePage.py:[29] - [INFO] - Clicking on an Element next2_XPATH
+2022-03-30 17:44:19,177 - BasePage.py:[29] - [INFO] - Clicking on an Element sharequotes_XPATH
+2022-03-30 17:44:22,277 - BasePage.py:[29] - [INFO] - Clicking on an Element selectallquotes_XPATH
+2022-03-30 17:44:24,368 - BasePage.py:[29] - [INFO] - Clicking on an Element next3_XPATH
+2022-03-30 17:44:24,568 - BasePage.py:[62] - [INFO] - Typing in an Element name_XPATH entered the value as : Apratim Chaudhuri
+2022-03-30 17:44:24,826 - BasePage.py:[62] - [INFO] - Typing in an Element email_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-03-30 17:44:24,959 - BasePage.py:[62] - [INFO] - Typing in an Element mobno_XPATH entered the value as : 7815830299
+2022-03-30 17:44:27,058 - BasePage.py:[29] - [INFO] - Clicking on an Element submit_XPATH
+2022-03-30 17:44:31,194 - BasePage.py:[29] - [INFO] - Clicking on an Element closebutton_XPATH
+2022-03-30 17:44:38,336 - BasePage.py:[29] - [INFO] - Clicking on an Element rsaplanselect_XPATH
+2022-03-30 17:44:41,422 - BasePage.py:[29] - [INFO] - Clicking on an Element next4_XPATH
+2022-03-30 17:44:42,100 - BasePage.py:[62] - [INFO] - Typing in an Element firstname_XPATH entered the value as : Apratim
+2022-03-30 17:44:42,254 - BasePage.py:[62] - [INFO] - Typing in an Element lastname_XPATH entered the value as : Chaudhuri
+2022-03-30 17:44:42,392 - BasePage.py:[62] - [INFO] - Typing in an Element dob_XPATH entered the value as : 1/2/1992
+2022-03-30 17:44:42,515 - BasePage.py:[29] - [INFO] - Clicking on an Element propgender_XPATH
+2022-03-30 17:44:42,631 - BasePage.py:[62] - [INFO] - Typing in an Element emailid_XPATH entered the value as : apratim.chaudhuri@riskcovr.com
+2022-03-30 17:44:42,768 - BasePage.py:[62] - [INFO] - Typing in an Element income_XPATH entered the value as : 1000000
+2022-03-30 17:44:42,909 - BasePage.py:[62] - [INFO] - Typing in an Element pan_XPATH entered the value as : AMHPC9725D
+2022-03-30 17:44:43,027 - BasePage.py:[29] - [INFO] - Clicking on an Element occudropdown_XPATH
+2022-03-30 17:44:43,143 - BasePage.py:[29] - [INFO] - Clicking on an Element occupation_XPATH
+2022-03-30 17:44:43,231 - BasePage.py:[62] - [INFO] - Typing in an Element designation_XPATH entered the value as : QA
+2022-03-30 17:44:43,318 - BasePage.py:[29] - [INFO] - Clicking on an Element statusdropdown_XPATH
+2022-03-30 17:44:43,435 - BasePage.py:[29] - [INFO] - Clicking on an Element status_XPATH
+2022-03-30 17:44:43,499 - BasePage.py:[29] - [INFO] - Clicking on an Element educationdropdown_XPATH
+2022-03-30 17:44:44,162 - BasePage.py:[29] - [INFO] - Clicking on an Element qualification_XPATH
+2022-03-30 17:44:44,236 - BasePage.py:[29] - [INFO] - Clicking on an Element tpanamedropdown_XPATH
+2022-03-30 17:44:44,359 - BasePage.py:[29] - [INFO] - Clicking on an Element tpaname_XPATH
+2022-03-30 17:44:44,477 - BasePage.py:[62] - [INFO] - Typing in an Element add1_XPATH entered the value as : GD
+2022-03-30 17:44:44,600 - BasePage.py:[62] - [INFO] - Typing in an Element add2_XPATH entered the value as : SaltLake
+2022-03-30 17:44:44,766 - BasePage.py:[29] - [INFO] - Clicking on an Element next5_XPATH
+2022-03-30 17:44:45,900 - BasePage.py:[62] - [INFO] - Typing in an Element selfheight_XPATH entered the value as : 180
+2022-03-30 17:44:46,003 - BasePage.py:[62] - [INFO] - Typing in an Element selfweight_XPATH entered the value as : 75
+2022-03-30 17:44:46,106 - BasePage.py:[62] - [INFO] - Typing in an Element selfdesignation_XPATH entered the value as : QA
+2022-03-30 17:44:46,252 - BasePage.py:[62] - [INFO] - Typing in an Element nomfname_XPATH entered the value as : testnomineefirst
+2022-03-30 17:44:46,393 - BasePage.py:[62] - [INFO] - Typing in an Element nomlname_XPATH entered the value as : testnomineelast
+2022-03-30 17:44:46,535 - BasePage.py:[62] - [INFO] - Typing in an Element nomdob_XPATH entered the value as : 1/2/1992
+2022-03-30 17:44:46,640 - BasePage.py:[29] - [INFO] - Clicking on an Element nomgender_XPATH
+2022-03-30 17:44:46,739 - BasePage.py:[29] - [INFO] - Clicking on an Element nomrelation_XPATH
+2022-03-30 17:44:46,877 - BasePage.py:[29] - [INFO] - Clicking on an Element nomrelationvalue_XPATH
+2022-03-30 17:44:46,957 - BasePage.py:[29] - [INFO] - Clicking on an Element next6_XPATH
+2022-03-30 17:44:51,005 - BasePage.py:[29] - [INFO] - Clicking on an Element next7_XPATH
+2022-03-30 17:48:39,171 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLRetailHealth_XPATH
+2022-03-30 17:48:41,254 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLSelectRisingHealth_XPATH
+2022-03-30 17:48:42,359 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLClickNext1_XPATH
+2022-03-30 17:48:43,401 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLSelectMemSelf_XPATH
+2022-03-30 17:48:44,481 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLSelectMemAgeDropdown_XPATH
+2022-03-30 17:48:45,551 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLSelectMemAge_XPATH
+2022-03-30 17:48:46,668 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLClickNext2_XPATH
+2022-03-30 17:48:48,743 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLSelectCity_XPATH
+2022-03-30 17:48:50,836 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLClickNext3_XPATH
+2022-03-30 17:48:52,941 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLClickNext4_XPATH
+2022-03-30 17:48:55,072 - BasePage.py:[62] - [INFO] - Typing in an Element IIFLInputMobileNo_XPATH entered the value as : 9999999999
+2022-03-30 17:48:56,139 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLClickNext5_XPATH
+2022-03-30 17:48:58,215 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLSelectCallOption_XPATH
+2022-03-30 17:49:06,334 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLSelectPlan_XPATH
+2022-03-30 17:49:10,458 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLClickProceed1_XPATH
+2022-03-30 17:49:13,605 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLSelectTenure_XPATH
+2022-03-30 17:49:21,764 - BasePage.py:[62] - [INFO] - Typing in an Element IIFLInputName_XPATH entered the value as : test test
+2022-03-30 17:49:27,245 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLInputGender_XPATH
+2022-03-30 17:49:27,394 - BasePage.py:[62] - [INFO] - Typing in an Element IIFLInputEmail_XPATH entered the value as : test@test.com
+2022-03-30 17:49:27,584 - BasePage.py:[62] - [INFO] - Typing in an Element IIFLInputAltMobNo_XPATH entered the value as : 9831025896
+2022-03-30 17:49:29,714 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLClickNext6_XPATH
+2022-03-30 17:49:32,920 - BasePage.py:[62] - [INFO] - Typing in an Element IIFLInputAdd1_XPATH entered the value as : GD
+2022-03-30 17:49:33,049 - BasePage.py:[62] - [INFO] - Typing in an Element IIFLInputAdd2_XPATH entered the value as : FE
+2022-03-30 17:49:33,225 - BasePage.py:[62] - [INFO] - Typing in an Element IIFLInputPIN_XPATH entered the value as : 560008
+2022-03-30 17:49:36,349 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLClickNext7_XPATH
+2022-03-30 17:49:40,482 - BasePage.py:[62] - [INFO] - Typing in an Element IIFLInputHeight_XPATH entered the value as : 180
+2022-03-30 17:49:40,588 - BasePage.py:[62] - [INFO] - Typing in an Element IIFLInputWeight_XPATH entered the value as : 75
+2022-03-30 17:49:41,695 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLClickNext8_XPATH
+2022-03-30 17:49:45,893 - BasePage.py:[62] - [INFO] - Typing in an Element IIFLInputNomineeName_XPATH entered the value as : automation testing
+2022-03-30 17:49:51,409 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLInputNomGender_XPATH
+2022-03-30 17:49:52,542 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLSelectRltnDropdown_XPATH
+2022-03-30 17:49:53,657 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLSelectRltnValue_XPATH
+2022-03-30 17:49:54,766 - BasePage.py:[29] - [INFO] - Clicking on an Element IIFLClickNext9_XPATH
